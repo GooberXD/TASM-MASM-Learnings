@@ -1,4 +1,4 @@
-# 🖥️ Assembly Language Notes
+# Assembly Language Notes
 
 ![Assembly](https://img.shields.io/badge/Language-Assembly-red?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge)
@@ -7,7 +7,7 @@ My comprehensive collection of notes, references, and code snippets for 8086 Ass
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 To run and edit these files effectively, you need the following environment set up:
 
@@ -16,7 +16,7 @@ To run and edit these files effectively, you need the following environment set 
 
 > **Recommended Extension:** [TASM/MASM by clcxsrolau](https://marketplace.visualstudio.com/items?itemName=xsro.masm-tasm) 
 
-## 📂 What's Inside?
+## What's Inside?
 
 *   **Syntax Basics:** Registers, Interrupts, and Addressing modes.
 *   **Code Snippets:** Common algorithms and routines.
